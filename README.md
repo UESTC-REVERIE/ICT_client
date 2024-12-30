@@ -11,20 +11,15 @@ DevEco Studio/ArkTS。
 
 初版软件原型图（与实际效果有出入）：
 
-![Done & Update](README.assets/Done & Update.png)
-
-![Main Page](README.assets/Main Page.png)
-
-![Media Library](README.assets/Media Library.png)
-
-![Updated & Wait](README.assets/Updated & Wait.png)
+<img src="README.assets/Updated_Wait.png" alt="Updated_Wait" style="zoom:50%;" /><img src="README.assets/MediaLibrary.png" alt=" MediaLibrary" style="zoom:50%;" /><img src="README.assets/Done_Update.png" alt=" Done_Update" style="zoom:50%;" /><img src="README.assets/MainPage.png" alt=" MainPage" style="zoom:50%;" />
 
 项目软件建构：
 
-![软件系统架构](README.assets/软件系统架构.png)
+<img src="README.assets/软件系统架构.png" alt=" 软件系统架构" style="zoom:80%;" />
 
-![pipeline](README.assets/pipeline.png)
+<img src="README.assets/pipeline.png" alt="pipeline" style="zoom:50%;" />
 
 软件介绍和演示视频：
 
 <video src="README.assets/演示视频 剪辑版.mp4"></video>
+
