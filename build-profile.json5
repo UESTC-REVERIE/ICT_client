@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\REVERIE\\.ohos\\config\\auto_debug_xxz_com.example.xxz_30086000720806919.cer",
+          "storePassword": "0000001B7DAF388FED0AC0E227CCF858BF3C9D00B8EFCBD6B4BE6EE781C9840972ED607256F62DB949E3AB",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B5E94C2D5792D30576C0E73B5190DDE7C7CD66E6ECA3CFDB7676D330ADB77683AC933B30CD03DAB",
+          "profile": "C:\\Users\\REVERIE\\.ohos\\config\\auto_debug_xxz_com.example.xxz_30086000720806919.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\REVERIE\\.ohos\\config\\auto_debug_xxz_com.example.xxz_30086000720806919.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

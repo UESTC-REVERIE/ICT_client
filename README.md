@@ -9,7 +9,7 @@ DevEco Studio/ArkTS。
 
 本作品整体将采用客户-服务器模式，基于HarmonyOS、DevEco Studio、ModelArts、Mindspore和华为云等华为相关技术，实现一款基于NeRF的移动端3D重建软件。
 
-软件介绍和演示视频：
+软件介绍和演示视频(./README.assets/)：
 
 <video src="README.assets/演示视频 剪辑版.mp4"></video>
 
